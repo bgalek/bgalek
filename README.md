@@ -1,2 +1,2 @@
 ### Hi there 👋
-- 👯 I’m looking to collaborate on [https://github.com/bgalek/gh-stats](https://github.com/bgalek/gh-stats)
+- 👯 I’m looking for collaborator to [https://github.com/bgalek/gh-stats](https://github.com/bgalek/gh-stats)
