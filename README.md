@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Bartosz Gałek**
+# 👋 Hi,
 
 - **Principal Engineer @ Allegro**
 - Passionate about **developer experience**, **automation**, and **engineering culture**
