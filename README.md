@@ -1,4 +1,4 @@
-# 👋 Hi,
+# 👋 About me
 
 - **Principal Engineer @ Allegro**
 - Passionate about **developer experience**, **automation**, and **engineering culture**
